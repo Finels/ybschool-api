@@ -1,0 +1,32 @@
+ybschool-admin/target/
+ybschool-app-server/target/
+ybschool-admin/plug/
+ybschool-app-server/plug/
+ybschool-admin/log/
+ybschool-app-server/log/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+ybschool-admin/.idea/
+ybschool-app-server/.idea/
+
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
